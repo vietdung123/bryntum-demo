@@ -1,6 +1,6 @@
 export const EVENTS = [
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 2,
         "durationUnit": "day",
@@ -17,7 +17,7 @@ export const EVENTS = [
         "cls": "sch-event"
     },
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 1,
         "durationUnit": "day",
@@ -34,7 +34,7 @@ export const EVENTS = [
         "cls": "sch-event"
     },
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 1,
         "durationUnit": "day",
@@ -51,7 +51,7 @@ export const EVENTS = [
         "cls": "sch-event"
     },
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 1,
         "durationUnit": "day",
@@ -68,7 +68,7 @@ export const EVENTS = [
         "cls": "sch-event"
     },
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 1,
         "durationUnit": "day",
@@ -85,7 +85,7 @@ export const EVENTS = [
         "cls": "sch-event"
     },
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 1,
         "durationUnit": "day",
@@ -102,7 +102,7 @@ export const EVENTS = [
         "cls": "sch-event"
     },
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 1,
         "durationUnit": "day",
@@ -119,7 +119,7 @@ export const EVENTS = [
         "cls": "sch-event"
     },
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 1,
         "durationUnit": "day",
@@ -136,7 +136,7 @@ export const EVENTS = [
         "cls": "sch-event"
     },
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 1,
         "durationUnit": "day",
@@ -153,7 +153,7 @@ export const EVENTS = [
         "cls": "sch-event"
     },
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 1,
         "durationUnit": "day",
@@ -170,7 +170,7 @@ export const EVENTS = [
         "cls": "sch-event"
     },
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 1,
         "durationUnit": "day",
@@ -187,7 +187,7 @@ export const EVENTS = [
         "cls": ""
     },
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 1,
         "durationUnit": "day",
@@ -204,7 +204,7 @@ export const EVENTS = [
         "cls": ""
     },
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 1,
         "durationUnit": "day",
@@ -221,7 +221,7 @@ export const EVENTS = [
         "cls": "sch-event"
     },
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 1,
         "durationUnit": "day",
@@ -243,7 +243,7 @@ export const EVENTS = [
         "cls": ""
     },
     {
-        "draggable": false,
+        "draggable": true,
         "resizable": false,
         "duration": 14,
         "durationUnit": "day",

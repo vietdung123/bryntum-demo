@@ -1,9 +1,6 @@
-/**
- * Application configuration
- */
-
-import { BryntumSchedulerProps } from '@bryntum/scheduler-react';
+/* eslint-disable @typescript-eslint/no-unsafe-argument */
 import { EventModel } from '@bryntum/scheduler';
+import { BryntumSchedulerProps } from '@bryntum/scheduler-react';
 
 const schedulerConfig: BryntumSchedulerProps = {
   rowHeight: 70,
@@ -52,9 +49,14 @@ const schedulerConfig: BryntumSchedulerProps = {
       disabled: true,
     },
     resourceTimeRanges: {
-      disabled: true,
+      disabled: false,
     },
     scheduleMenu: false,
+    eventDrag: {
+      constrainDragToTimeline: false,
+    },
+    eventDragCreate: false,
+    eventDragSelect: false,
   },
   createEventOnDblClick: false,
   eventEditFeature: false,
@@ -66,7 +68,7 @@ const schedulerConfig: BryntumSchedulerProps = {
   selectedEvents: [],
   scrollable: true,
   zoomOnMouseWheel: false,
-  allowOverlap: false,
+  allowOverlap: true,
   forceFit: false,
   useInitialAnimation: false,
   enableEventAnimations: false,
@@ -83,7 +85,7 @@ const schedulerConfig: BryntumSchedulerProps = {
 };
 
 export const defaultEventEntities: Partial<EventModel> = {
-  draggable: false,
+  draggable: true,
   resizable: false,
   duration: 1,
   durationUnit: 'day',

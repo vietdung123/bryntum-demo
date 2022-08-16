@@ -1099,22 +1099,22 @@
   resolved "https://npm.bryntum.com/@bryntum%2fdemo-resources/-/demo-resources-1.1.0.tgz#1a6445f04e3e20f763c0fd5636986c68abc6e432"
   integrity sha512-v6YdBb1YL2ysQtrYfpYyh7OHjtPRUl1xIDPFWFL1PyPulH9jH9QJlYLoUfVvtUsTAQufOqtZd0TVVexiUWWaHg==
 
+"@bryntum/scheduler-lib@1.0.0":
+  version "1.0.0"
+  resolved "https://npm.bryntum.com/@bryntum%2fscheduler-lib/-/scheduler-lib-1.0.0.tgz#00e1b2fbfefce96792f3f903659fd11f05fee9b3"
+  integrity sha512-sBhakcO9/ANMKBOjSXWD+uNBtCBkiof5inIN1I+vWY1lkxnpC/i9wuMmzDF74ej5r7XV0scitXHFsRb+2DgFEw==
+
 "@bryntum/scheduler-react@5.1.1":
   version "5.1.1"
   resolved "https://npm.bryntum.com/@bryntum%2fscheduler-react/-/scheduler-react-5.1.1.tgz#43f429d1b31951e951485c0d56564618cfca8d8a"
   integrity sha512-VsAeGt/4NmwXfsPJPZW1Vyuqg+GUKdk6s6bcsZ3A7zVIfM6lA3B6BXEFfjJyfAudmXPTA/4JAAVm3xPu7XCjxA==
 
-"@bryntum/scheduler-trial-lib@1.0.0":
-  version "1.0.0"
-  resolved "https://npm.bryntum.com/@bryntum%2fscheduler-trial-lib/-/scheduler-trial-lib-1.0.0.tgz#dc58c73ab0b3de150b2e5d4de4c170fa0c2ccce1"
-  integrity sha512-egIyUsnYUqsUKj7r8Cd+H9SP7q9SK+yqGebEDOoO0b+Tl3JQhje6HDLDrvvE+Om7RgSrzZsKTwFrU4obekbg1A==
-
-"@bryntum/scheduler@npm:@bryntum/scheduler-trial@5.1.1":
+"@bryntum/scheduler@5.1.1":
   version "5.1.1"
-  resolved "https://npm.bryntum.com/@bryntum%2fscheduler-trial/-/scheduler-trial-5.1.1.tgz#b81f28d6fd215e6a6e9ae2b2e95333d1bfac590b"
-  integrity sha512-Z0cM6R9Pn/A+AgoCZ/tM+TegZORomYx+J76okl6SLXTlu5Us8i6jVr7QyUx5stgqgJtSdcCXz9SibNM0e/L4fA==
+  resolved "https://npm.bryntum.com/@bryntum%2fscheduler/-/scheduler-5.1.1.tgz#10af39aa3149aba88765fa5dcaab89348e8aced7"
+  integrity sha512-EsmXUA6jTeX+/emV6I4o7x7RUoU4396wU/1k0YL1LK0lgfassMtVkAXnHLK9RydDTT8nKGwREFI/A9iWD62O9g==
   dependencies:
-    "@bryntum/scheduler-trial-lib" "1.0.0"
+    "@bryntum/scheduler-lib" "1.0.0"
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"

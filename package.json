@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@bryntum/demo-resources": "1.1.0",
-    "@bryntum/scheduler": "npm:@bryntum/scheduler-trial@5.1.1",
+    "@bryntum/scheduler": "5.1.1",
     "@bryntum/scheduler-react": "5.1.1",
     "@types/node": "~12.6.8",
     "@types/react-dom": "~16.8.5",
