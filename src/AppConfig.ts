@@ -9,9 +9,6 @@ const schedulerConfig: BryntumSchedulerProps = {
     shiftIncrement: 1,
     shiftUnit: 'month',
     base: 'day',
-    timeResolution: {
-      unit: 'day',
-    },
     headers: [
       {
         unit: 'month',

@@ -66,5 +66,19 @@ export const ASSIGNMENTS = [
     {
         "eventId": 21678426,
         "resourceId": "7980_144227"
+    },
+    {
+        "eventId": 2168224568,
+        "resourceId": "7980_144226"
+    }
+    ,
+    {
+        "eventId": 2168334568,
+        "resourceId": "7980_144226"
+    }
+    ,
+    {
+        "eventId": 21684568,
+        "resourceId": "7980_144226"
     }
 ]

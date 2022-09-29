@@ -1104,15 +1104,15 @@
   resolved "https://npm.bryntum.com/@bryntum%2fscheduler-lib/-/scheduler-lib-1.0.0.tgz#00e1b2fbfefce96792f3f903659fd11f05fee9b3"
   integrity sha512-sBhakcO9/ANMKBOjSXWD+uNBtCBkiof5inIN1I+vWY1lkxnpC/i9wuMmzDF74ej5r7XV0scitXHFsRb+2DgFEw==
 
-"@bryntum/scheduler-react@5.1.1":
-  version "5.1.1"
-  resolved "https://npm.bryntum.com/@bryntum%2fscheduler-react/-/scheduler-react-5.1.1.tgz#43f429d1b31951e951485c0d56564618cfca8d8a"
-  integrity sha512-VsAeGt/4NmwXfsPJPZW1Vyuqg+GUKdk6s6bcsZ3A7zVIfM6lA3B6BXEFfjJyfAudmXPTA/4JAAVm3xPu7XCjxA==
+"@bryntum/scheduler-react@5.1.3":
+  version "5.1.3"
+  resolved "https://npm.bryntum.com/@bryntum%2fscheduler-react/-/scheduler-react-5.1.3.tgz#cf223ef512db0cc2409b9e42ac74adca8d49b61c"
+  integrity sha512-DdxlGB7fP8+ktK3guCdahWA4DQNG2nJhMiaygPTouzUvwDXbVexKUSI6qU3Q1h9EEDOzZPKPrc3dgMbnLMJFdg==
 
-"@bryntum/scheduler@5.1.1":
-  version "5.1.1"
-  resolved "https://npm.bryntum.com/@bryntum%2fscheduler/-/scheduler-5.1.1.tgz#10af39aa3149aba88765fa5dcaab89348e8aced7"
-  integrity sha512-EsmXUA6jTeX+/emV6I4o7x7RUoU4396wU/1k0YL1LK0lgfassMtVkAXnHLK9RydDTT8nKGwREFI/A9iWD62O9g==
+"@bryntum/scheduler@5.1.3":
+  version "5.1.3"
+  resolved "https://npm.bryntum.com/@bryntum%2fscheduler/-/scheduler-5.1.3.tgz#7a4d9e387e9d1ad7be580340727f93ea574a3a74"
+  integrity sha512-Fw6REF1QM7vTsgjQP/jfoem74zlWnkYUaBNB6ZO+ecIquloXRwfEVGYCsBiQbqTmptkcwPy6pIU9yDeLKjgtZA==
   dependencies:
     "@bryntum/scheduler-lib" "1.0.0"
 
@@ -7282,6 +7282,11 @@ mkdirp@^1.0.3, mkdirp@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-1.0.4.tgz#3eb5ed62622756d79a5f0e2a221dfebad75c2f7e"
   integrity sha512-vVqVZQyf3WLx2Shd0qJ9xuvqgAyKPLAiqITEtqW0oIUjzo3PePDd6fW9iFz30ef7Ysp/oiWqbhszeGWW2T6Gzw==
+
+moment@^2.29.4:
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
 move-concurrently@^1.0.1:
   version "1.0.1"
